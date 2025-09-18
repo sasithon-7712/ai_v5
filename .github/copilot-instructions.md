@@ -2,7 +2,7 @@
 
 # AI V5 React Project - Copilot Instructions
 
-This is a React application built with Vite. When assisting with this project, please:
+This is a React application built with Vite and Tailwind CSS. When assisting with this project, please:
 
 ## General Guidelines
 - Use modern React patterns (functional components with hooks)
@@ -15,8 +15,14 @@ This is a React application built with Vite. When assisting with this project, p
 - This project uses Vite as the build tool, so follow Vite conventions
 - Use JSX for React components
 - Place components in the `src` directory
-- Use CSS modules or regular CSS files for styling
+- Use Tailwind CSS for styling instead of regular CSS or CSS modules
 - Follow the existing project structure
+
+## Styling Guidelines
+- Use Tailwind CSS utility classes for styling
+- Follow Tailwind's utility-first approach
+- Use responsive design patterns with Tailwind's responsive prefixes
+- Prefer Tailwind utilities over custom CSS when possible
 
 ## Code Style
 - Use camelCase for variable and function names
@@ -28,6 +34,7 @@ This is a React application built with Vite. When assisting with this project, p
 ## Dependencies
 - React 19.x
 - Vite 5.x
+- Tailwind CSS 4.x
 - ESLint for code linting
 
 When suggesting code changes or new features, ensure they are compatible with the existing setup and follow these guidelines.

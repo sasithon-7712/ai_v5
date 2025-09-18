@@ -1,12 +1,12 @@
 # AI V5 React App
 
-A modern React application built with Vite.
+A modern React application built with Vite and Tailwind CSS.
 
 ## Features
 
 - ⚡️ [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 - ⚛️ [React 19](https://reactjs.org/) - A JavaScript library for building user interfaces
-- 🎨 Modern CSS with custom properties
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
 - 🔥 Hot Module Replacement (HMR)
 - 📦 Optimized build with Rollup
 
@@ -45,22 +45,22 @@ npm run dev
 src/
 ├── assets/          # Static assets
 ├── App.jsx          # Main App component
-├── App.css          # App styles
 ├── main.jsx         # Application entry point
-└── index.css        # Global styles
+└── index.css        # Global styles with Tailwind
 ```
 
 ## Technologies Used
 
-- **React** - UI library
+- **React 19** - UI library
 - **Vite** - Build tool and dev server
+- **Tailwind CSS** - Utility-first CSS framework
 - **ESLint** - Code linting
-- **CSS3** - Styling
 
 ## Learn More
 
 - [Vite Documentation](https://vitejs.dev/)
 - [React Documentation](https://reactjs.org/)
+- [Tailwind CSS Documentation](https://tailwindcss.com/)
 
 ## License
 
