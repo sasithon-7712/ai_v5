@@ -5,7 +5,7 @@ A modern React application built with Vite.
 ## Features
 
 - ⚡️ [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
-- ⚛️ [React 18](https://reactjs.org/) - A JavaScript library for building user interfaces
+- ⚛️ [React 19](https://reactjs.org/) - A JavaScript library for building user interfaces
 - 🎨 Modern CSS with custom properties
 - 🔥 Hot Module Replacement (HMR)
 - 📦 Optimized build with Rollup
@@ -15,7 +15,7 @@ A modern React application built with Vite.
 ### Prerequisites
 
 Make sure you have Node.js installed on your machine:
-- Node.js (version 18 or higher)
+- Node.js (version 20 or higher)
 - npm or yarn
 
 ### Installation

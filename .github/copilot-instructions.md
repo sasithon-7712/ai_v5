@@ -26,7 +26,7 @@ This is a React application built with Vite. When assisting with this project, p
 - Use template literals for string interpolation
 
 ## Dependencies
-- React 18.x
+- React 19.x
 - Vite 5.x
 - ESLint for code linting
 
